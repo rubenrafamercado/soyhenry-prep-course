@@ -1,0 +1,7 @@
+Variables: Memory spaces to save a data
+Strings: variable type to save text
+Funciones (argumentos, return): Actions to get results according to arguments. Functions can return values as last action.
+Declaraciones if: Analycement of the a bolean expressions
+Valores booleanos (true, false): variable type can only have two states; true or false
+
+
