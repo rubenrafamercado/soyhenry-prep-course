@@ -224,8 +224,8 @@ function esVocal(letra){
   //Escribe tu código aquí
   
   vocals = 'aeiou'
-  if ( letra.length > 1 ) return 'Dato incorrecto'
-  if ( vocals.lastIndexOf(letra) == -1 ) return 'Dato incorrecto'
+  
+  if ( letra.length > 1 || vocals.lastIndexOf(letra) == -1 ) return 'Dato incorrecto'  
   return 'Es vocal'
 }
 
