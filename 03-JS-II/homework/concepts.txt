@@ -1,0 +1,8 @@
+
+for : Sentence to make a loop cycle
+
+&&, ||, ! : Logical operators. These evaluate expressions for true or false.
+    && : It evalutes using "and" condition. If all expression is true, it will evalute true 
+    || : It evalutes using "or" condition. If some expression is true, it will evalute true
+    !  : To use with && or ||. It inverts the value got.
+
