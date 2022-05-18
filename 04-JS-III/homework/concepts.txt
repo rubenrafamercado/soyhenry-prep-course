@@ -1,0 +1,7 @@
+Arrays : Asociated values saved in memory with a unique name.
+
+
+
+
+
+
