@@ -1,0 +1,5 @@
+Objects: Associated attributes and methods saved in memory with a unique name.
+Properties: Attributes to describe an object
+Methods: Actions on object attributes
+Loop for…in : To loop into all object methods and attributes 
+Point using vs brackets: With brackets is possible to use variables as method names or attribute names.
